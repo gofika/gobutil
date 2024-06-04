@@ -4,7 +4,7 @@ go 1.21.6
 
 require (
 	github.com/gofika/fileutil v0.0.0-20240131102009-bae13d620fcd
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 )
 
 require (
